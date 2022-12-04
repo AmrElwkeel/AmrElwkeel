@@ -17,7 +17,7 @@
 ## In short description
  - 🔭 I’m currently working at LOCII.
  - 🌱 I’m currently learning as much as I can.
- - 🥅 2021 goals: work in the next Mars Rover!
+ - 🥅 2023 goals: work in the next Mars Rover!
  - ⚡ Fun fact: I started coding because I wanted to build robots.
  - 🔭 I’m currently working on -  Project Medical
  - 🌱 I’m currently learning - JavaScript And Node.JS
