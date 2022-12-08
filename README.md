@@ -12,7 +12,7 @@
  # I'm an enthusiastic developer in love with flutter & Dart
 
 
-<img alt="Coder GIF" height=400 width=600 src="https://github.com/AmrElwkeel/AmrElwkeel/blob/main/gif.gif" />
+<img alt="Coder GIF" height=400 width=1000 src="https://github.com/AmrElwkeel/AmrElwkeel/blob/main/gif.gif" />
 <br>
 
 
