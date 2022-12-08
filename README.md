@@ -5,7 +5,10 @@
 <h1 align='center'> Hi there 👋, I'm Amr Elwekeel  </h1>
 
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3jT0O-t-CNjS2fxqxyyfIc&ust=1670589725608000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIDH2-uF6vsCFQAAAAAdAAAAABAW
+
+
+<!--For adding Gif
+<p><img align="right" alt="GIF" src="https://github.com/AmrElwkeel/AmrElwkeel/blob/main/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374.gif" width="500" height="350" /></p>-->
 <h3 align='center'> I'm From Egypt </h3>
 <br>
 
