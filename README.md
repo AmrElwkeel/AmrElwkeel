@@ -6,7 +6,8 @@
 
 
 
-<p><img align="right" alt="GIF" src="https://github.com/mitul3737/mitul3737/blob/main/github%20readme.gif" width="500" height="350" /></p>-->
+
+<img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
 
 <h3 align='center'> I'm From Egypt </h3>
 <br>
