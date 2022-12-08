@@ -6,9 +6,8 @@
 
 
 
+<p><img align="right" alt="GIF" src="https://github.com/mitul3737/mitul3737/blob/main/github%20readme.gif" width="500" height="350" /></p>-->
 
-<!--For adding Gif
-<p><img align="center" alt="GIF" src="https://github.com/AmrElwkeel/AmrElwkeel/blob/main/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374.gif" width="500" height="350" /></p>-->
 <h3 align='center'> I'm From Egypt </h3>
 <br>
 
