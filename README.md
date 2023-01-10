@@ -29,7 +29,7 @@
  ## My Work By Flutter
  
  - Medical App (https://play.google.com/store/apps/details?id=com.locii.medical&pli=1)
- - OmegaGate App(https://play.google.com/store/apps/details?id=com.omega.omegagateuser)
+ - OmegaGate App(Android)
   
 
 <p align='center'>
