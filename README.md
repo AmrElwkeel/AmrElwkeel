@@ -8,7 +8,7 @@
 
 <br>
 
- # I'm an enthusiastic developer in love with flutter & Dart
+ # Versatile Mobile Developer | Proficient in Native and Cross-Platform Development with Flutter
 
 
 <img alt="Coder GIF" height=600 width=1000 src="https://github.com/AmrElwkeel/AmrElwkeel/blob/main/2835b06c053a1fdab58a4b8d7006f73b.gif" />
