@@ -95,7 +95,7 @@
 ### 📫 Let's Connect
 
 - 💼 **LinkedIn**: [Amr Elwekeel](https://www.linkedin.com/in/amr-elwekeel/)
-- 📧 **Email**: [your.email@gmail.com](mailto:amrgamalelwekeel)
+- 📧 **Email**: [amrgamalelwekeel@gmail.com]
 - 🌍 **Location**: Kajang, Selangor, Malaysia
 - 🔗 **Portfolio**: Available upon request
 
