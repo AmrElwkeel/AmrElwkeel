@@ -72,7 +72,7 @@ VR Content Platform with Payments
 <td align="center" width="33%">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100"/><br/>
 <strong>🛒 EasySell</strong><br/>
-<a href="https://play.google.com/store/apps/details?id=com.easysell.app">
+<a href="https://play.google.com/store/apps/details?id=com.easy_sell_app.easy_sell_app">
 <img src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/>
 </a><br/>
 Marketplace with Advanced Features
