@@ -1,88 +1,121 @@
+# Amr Gamal Elwekeel
+## Senior Mobile Developer | Flutter & iOS Specialist
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AmrElwkeel)
 
+---
 
+### 👨‍💻 Professional Overview
 
-<h1 align='center'> Hi there 👋, I'm Amr Elwekeel  </h1>
+**Senior Mobile Developer** with **5+ years** of experience delivering scalable, high-performance mobile applications to **thousands of users** across **Google Play Store** and **Apple App Store**. Specialized in **Flutter**, **Dart**, and **native iOS development** with **Swift/Xcode**.
 
+**Core Expertise:**
+- Cross-platform mobile development (Flutter, Dart)
+- Native iOS development (Swift, Xcode, UIKit)
+- Clean Architecture & SOLID principles
+- Advanced state management (BLoC, Provider)
+- Payment gateway integrations
+- End-to-end project delivery
 
+---
 
-<br>
+### 🚀 Featured Projects & Live Applications
 
- # Versatile Mobile Developer | Proficient in Native and Cross-Platform Development with Flutter
+#### 📱 Published Apps (Google Play Store)
+- **[Medical App](https://play.google.com/store/apps/details?id=com.locii.medical&pli=1)** - Healthcare services platform with geolocation
+- **[OmegaGate](https://play.google.com/store/apps/details?id=com.omega.omegagateuser)** - Virtual reality content platform with payment integration
+- **[EasySell](https://play.google.com/store/apps/details?id=com.easysell.app)** - Marketplace application with advanced listing features
 
+#### 🏆 Key Achievements
+- **6+ applications** successfully deployed to production
+- **99%+ app stability** with thousands of active users
+- **Enterprise-grade** applications for educational and healthcare sectors
+- **Full-stack leadership** managing both frontend and backend teams
 
-<img alt="Coder GIF" height=600 width=1000 src="https://github.com/AmrElwkeel/AmrElwkeel/blob/main/2835b06c053a1fdab58a4b8d7006f73b.gif" />
-<br>
+---
 
+### 🛠️ Technical Stack
 
-## In short description
- - 🔭 I’m currently working at LOCII.
- - 🌱 I’m currently learning as much as I can.
- - 🥅 2023 goals: work in the next Mars Rover!
- - ⚡ Fun fact: I started coding because I wanted to build robots.
- - 🔭 I’m currently working on -  Project Medical
- - 🌱 I’m currently learning - JavaScript And Node.JS
- - 💬 Ask me about -Dart-Java-Python - Flutter - Django
- 
- 
- ## Apps on the Store:
- - Medical App (<a href="https://play.google.com/store/apps/details?id=com.locii.medical&pli=1)">Android</a>) 
- - OmegaGate App(<a href="https://play.google.com/store/apps/details?id=com.omega.omegagateuser">Android</a>)
-  
+#### **Mobile Development**
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 
-<p align='center'>
-  <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=StefanyVasc.StefanyVasc??style=for-the-badge&logo=appveyor"></a>
-</p>
+#### **iOS Development**
+![Xcode](https://img.shields.io/badge/-Xcode-1575F9?style=flat-square&logo=xcode&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/-SwiftUI-FA7343?style=flat-square&logo=swift&logoColor=white)
+![UIKit](https://img.shields.io/badge/-UIKit-2396F3?style=flat-square&logo=apple&logoColor=white)
 
-## 🛠 Languages and Tools
+#### **Backend & Databases**
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 
-[<img alt="HTML" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />][flutter]
-[<img alt="HTML" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />][dart]
-[<img alt="HTML" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][flutter]
-[<img alt="HTML" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />][flutter]
-[<img alt="HTML" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />][flutter]
-[<img alt="HTML" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />][flutter]
-[<img alt="HTML" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][HTML]
-[<img alt="CSS" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][CSS]
-[<img alt="JavaScript" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][JavaScript]
-[<img alt="Node" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][Node]
-[<img alt="Firebase" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />][Firebase]
-[<img alt="Python" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][Python]
-[<img alt="Visual Studio" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][Visual Studio]
-[<img alt="Git" width="58" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />][Git]
-[<img alt="GitHub" width="58" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][GitHub]
+#### **Development Tools**
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-<br>
+---
 
+### 📊 GitHub Analytics
 
-[![Jairo Lachira's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmrElwkeel&show_icons=true&hide_border=false&theme=dark)](https://github.com/AmrElwkeel/github-readme-stats)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmrElwkeel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrElwkeel&layout=compact&langs_count=8&theme=dark"/>
+</div>
 
+---
 
+### 💼 Current Focus
 
-<!-- Reference URLs -->
-[LinkedIn]: https://www.linkedin.com/in/timbergus/?locale=en_US
-[CodePen]: https://codepen.io/timbergus
-[StackOverflow]: https://stackoverflow.com/users/1999316/timbergus
-[HTML]: https://github.com/search?q=html
-[CSS]: https://github.com/search?q=css
-[JavaScript]: https://github.com/search?q=javascript
-[TypeScript]: https://www.typescriptlang.org/
-[React]: https://reactjs.org/
-[WebPack]: https://webpack.js.org/
-[Redux]: https://redux.js.org/
-[GraphQL]: https://graphql.org/
-[Jest]: https://jestjs.io/
-[Testing Library]: https://testing-library.com/
-[Node]: https://nodejs.org/en/
-[Firebase]: https://firebase.google.com/
-[C++]: https://github.com/search?q=cpp
-[Swift]: https://github.com/search?q=swift
-[Python]: https://github.com/search?q=python
-[Visual Studio]: https://code.visualstudio.com/
-[VIM]: https://www.vim.org/
-[ESLint]: https://eslint.org/
-[Git]: https://git-scm.com/
-[GitHub]: https://github.com/
-[Flutter]: https://flutter.dev/
-[Dart]: https://dart.dev/
+- **Leading** full-stack mobile development at Britannia Language Center
+- **Building** scalable Flutter applications with advanced architecture patterns
+- **Expanding** expertise in iOS native development and SwiftUI
+- **Optimizing** app performance and user experience across platforms
 
+---
+
+### 🎯 Professional Interests
+
+- **Cross-platform Development**: Flutter, React Native
+- **iOS Native Development**: Swift, SwiftUI, Combine
+- **Architecture Patterns**: Clean Architecture, MVVM, BLoC
+- **Performance Optimization**: Memory management, rendering optimization
+- **CI/CD**: Automated testing, deployment pipelines
+
+---
+
+### 📫 Let's Connect
+
+- 💼 **LinkedIn**: [Amr Elwekeel](https://www.linkedin.com/in/amr-elwekeel/)
+- 📧 **Email**: [your.email@gmail.com](mailto:amrgamalelwekeel)
+- 🌍 **Location**: Kajang, Selangor, Malaysia
+- 🔗 **Portfolio**: Available upon request
+
+---
+
+### 📈 Recent Activity
+
+<!--START_SECTION:activity-->
+- 🚀 Recently deployed EasySell app to Google Play Store
+- 🔧 Working on advanced Flutter state management solutions
+- 📱 Developing iOS companion apps with SwiftUI
+- 🏗️ Leading architecture decisions for enterprise applications
+<!--END_SECTION:activity-->
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=AmrElwkeel&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+</div>
+
+<div align="center">
+  <i>⭐️ Building the future, one app at a time</i>
+</div>
